@@ -28,7 +28,7 @@ LATEST VERSION (2022-08-20) ([Whatsapp can't see messages]) [Fixed ]
  
 ## 🙂➾ [Fork This Repo By Clicking Here](https://github.com/prabhasha2006/Red-Dragon/fork)
  
-## 🙂➾ [Then Deploy The Bot From Here](https://heroku.com/deploy)
+## 🙂➾ [Then Deploy The Bot From Here](   https://railway.app/new/template/qlNNat?referralCode=LVfxFO )
 
 ## 🙂➾ [Red Dragon Bot Official Website Here](https://sites.google.com/view/red-dragon-bot/home)
 
@@ -130,10 +130,8 @@ Recommended WhatsApp👇
 
 <div align="center">
 	
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KumuthuPrabhash/Red-Dragon-Bot-Qr-Code?v=1)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-</div>
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KumuthuPrabhash/Red-Dragon-Bot-Qr-Code?v=1
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/qlNNat?referralCode=LVfxFO)
 
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
