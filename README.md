@@ -130,7 +130,7 @@ Recommended WhatsApp👇
 
 <div align="center">
 	
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KumuthuPrabhash/Red-Dragon-Bot-Qr-Code?v=1
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KumuthuPrabhash/Red-Dragon-Bot-Qr-Code?v=1)
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/qlNNat?referralCode=LVfxFO)
 
 ## Thanks To
