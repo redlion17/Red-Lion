@@ -24,7 +24,7 @@ LATEST VERSION (2022-08-20) ([Whatsapp can't see messages]) [Fixed ]
 👇To proccess👇
 </p>
 
-## 🙂➾ [Scan QR In Your Whatsapp From Here](      https://replit.com/@Yashuu16/Red-Lion-Bot-Qr-Code   )
+## 🙂➾ [Scan QR In Your Whatsapp From Here](      https://replit.com/@Yashuu16/Red-Lion-Bot-Qr-Code )
  
 ## 🙂➾ [Fork This Repo By Clicking Here](https://github.com/prabhasha2006/Red-Dragon/fork)
  
